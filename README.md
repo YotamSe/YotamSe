@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YotamSegal
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on front-end projects
+- 💞️ I’m looking to collaborate on front-end or back-end projects
 - 📫 You can reach me through my e-mail - segalyotam@gmail.com
 
 <!---
